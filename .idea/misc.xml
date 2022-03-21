@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/java/b0r1ngx/maketricks/MainActivity.kt" value="0.3341772151898734" />
+        <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/java/b0r1ngx/maketricks/MainActivity1.kt" value="0.2360641891891892" />
         <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3805" />
         <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/drawable/ic_device_foreground.xml" value="0.3805" />
         <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/drawable/ic_hand_foreground.xml" value="0.3805" />
         <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3805" />
-        <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3805" />
+        <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.207" />
+        <entry key="..\:/Users/perke/AndroidStudioProjects/TryToFastMakeTricks/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.207" />
       </map>
     </option>
   </component>
